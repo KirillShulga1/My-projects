@@ -31,8 +31,15 @@ background-color: #409cff;
 .tri{
 padding: 20px 20px 20px;
 margin:20px 20px 20px ;
-width: 200px;
+margin:20px 20px 20px ;
 height: 100px;
+border: solid 2px black;
+background-color: #409cff;
+}
+.four{
+  padding: 20px 20px 20px;
+  margin:20px 20px 20px ;
+ height: 100px;
 border: solid 2px black;
 background-color: #409cff;
 }
